@@ -130,13 +130,14 @@ header .container {
   border-radius: 16px;
   text-transform: capitalize;
   transition: 0.3s;
-  width: 200px;
+  width: 180px;
 
 }
 
 .btn:hover {
   background-color: var(--hoverColor);
   transform: scale(1) !important;
+  width: 200px;
 }
 
 .hamburger-menu {
