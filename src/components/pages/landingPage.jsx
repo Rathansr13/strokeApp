@@ -58,6 +58,7 @@ const landingPage = () => {
         securely manage patient scans 
         for accurate prediction
       </p>
+  
       <div class="cta">
        <Link to='/uploadPage'> <a href="#" class="btn">Get started</a></Link>
       </div>
